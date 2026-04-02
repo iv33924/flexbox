@@ -1,2 +1,1 @@
-# flexbox
-Практическая работа по Flexbox
+https://iv33924.github.io/flexbox/
